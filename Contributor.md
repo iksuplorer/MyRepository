@@ -1,3 +1,3 @@
 iksuplorer
 
-iksuplorerssu(Your name)
+iksuplorerssu
