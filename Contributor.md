@@ -2,6 +2,4 @@ iksuplorer
 
 iksuplorerssu
 
-nobody
 
-anybody
