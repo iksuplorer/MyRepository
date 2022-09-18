@@ -1,3 +1,2 @@
-iksuplorerssu
 iksuplorer
 
